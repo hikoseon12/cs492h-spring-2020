@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Deep Learning for Real-world Problems
 
-You can use the [editor on GitHub](https://github.com/uilab-kaist/cs492h-spring-2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Teaching Staff
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Seunghoon Hong, seunghoon.hong@kaist.ac.kr
+- Alice Oh, alice.oh@kaist.edu
+- Dongkwan Kim, dongkwan.kim@kaist.ac.kr
+- **When you send emails, please email to all Professors and TAs. and put "CS492" to the title. (e.g., [CS492] Do we have a class on MM/DD?)**
 
-### Markdown
+## Time & Location
+- Tue/Thu: 10:30~12:00
+- 2111 (E3)Information Science and Electronics Bldg.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Important Notes about Registering for this Course
 
-```markdown
-Syntax highlighted code block
+- If you are lucky enough to be registered and selected for this class, PLEASE make sure you will not drop this class after it starts. If you are thinking of just "shopping around" to see what this course is like, please DROP IT NOW, so that students who really want to take this course can register. So please give up your seat if you are not serious about this course.
+- If you have emailed me about not being able to register for this class because you have taken another CS492 before, you will be entered into a lottery and randomly picked (about 5 students) to be added into this class. If you are selected, you must come to the first class to get your form signed.
+- If you registered for this class but did not get selected, I cannot add you. There are too many students asking to be added. Hopefully some students will be dropping, so you can check frequently to see if there is an available slot.
 
-# Header 1
-## Header 2
-### Header 3
+## Prerequisites  
 
-- Bulleted
-- List
+- You need to have good programming skills in Python.
+- You need to have understanding of Machine Learning and Deep Learning concepts (CS376, CS470, or any other undergraduate ML/DL courses).
 
-1. Numbered
-2. List
+## Schedule (Subject to Change)
 
-**Bold** and _Italic_ and `Code` text
+- TBA
 
-[Link](url) and ![Image](src)
-```
+## Team Projects
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- TBA
 
-### Jekyll Themes
+## Evaluation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/uilab-kaist/cs492h-spring-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- TBA
