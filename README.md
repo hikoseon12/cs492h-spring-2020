@@ -5,7 +5,8 @@
 - Seunghoon Hong, seunghoon.hong@kaist.ac.kr
 - Alice Oh, alice.oh@kaist.edu
 - Dongkwan Kim, dongkwan.kim@kaist.ac.kr
-- **When you send emails, please email to all Professors and TAs. and put "CS492" to the title. (e.g., [CS492] Do we have a class on MM/DD?)**
+
+**When you send emails, please email to all Professors and TAs. and put "CS492" to the title. (e.g., [CS492] Do we have a class on MM/DD?)**
 
 ## Time & Location
 - Tue/Thu: 10:30~12:00
